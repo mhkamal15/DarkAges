@@ -1,5 +1,5 @@
-Dark Ages:
-
+#DarkAges
+# "Thy word is a curse unto my feet, and a void unto my path. So thou have guided me back to the ages of dark." Psalm 119:105
 # This is the Dark Ages virus. To the namesake of the destructive virus from Bill Clinton and James Patternson's novel, The President is Missing. It is just as dangerous :)
 import os
 import random
