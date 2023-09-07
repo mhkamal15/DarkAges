@@ -1,4 +1,6 @@
 # DarkAges
+Note: This script is a work in progress. **Do not use without a VM or until project completion.**
+
 This is the Dark Ages virus. To the namesake of the destructive virus from Bill Clinton and James Patternson's novel, The President is Missing.
 It is just as dangerous :)
 
